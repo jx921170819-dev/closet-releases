@@ -25,7 +25,7 @@
 - `CLOSET_<版本>_aarch64.dmg` —— macOS（Apple 芯片）安装包
 - `CLOSET.app.tar.gz` + `.sig` —— 应用内「检查更新」用的更新包与签名
 - `latest.json` —— 更新清单。应用读的是
-  `https://github.com/jx921170819-dev/closet-releases/releases/latest/download/latest.json`，
+  `https://github.com/jx921170819-dev/clo-assets/releases/latest/download/latest.json`，
   所以**每一版都要重新上传这个文件**
 
 源码在另一个私有仓库里。这个仓库之所以是公开的，是因为应用要匿名读取它的 release ——
